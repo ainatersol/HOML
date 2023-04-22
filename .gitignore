@@ -9,6 +9,7 @@ __pycache__/
 # HOML
 /data/
 /datasets/
+my_california_housing_model.pkl
 
 # Distribution / packaging
 .Python
